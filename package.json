@@ -1,0 +1,21 @@
+{
+  "name": "account-number-converter",
+  "version": "1.0.0",
+  "description": "Put a hyphen in your account number or mask your account number with an asterisk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusgh00/account-number-converter.git"
+  },
+  "keywords": [
+    "account-number",
+    "asterisk",
+    "hyphen",
+    "back"
+  ],
+  "author": "HYNO",
+  "license": "MIT"
+}

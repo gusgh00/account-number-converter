@@ -1,6 +1,6 @@
 {
   "name": "account-number-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Put a hyphen in your account number or mask your account number with an asterisk.",
   "main": "index.js",
   "scripts": {

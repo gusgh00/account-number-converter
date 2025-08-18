@@ -37,7 +37,7 @@ const bankList = [
     },
     {
         account_name: "KB국민은행",
-        account_code: ["004", "006", "019", "029"],
+        account_code: "004",
         account_number_list: [
             {
                 number_count: 12,
@@ -69,7 +69,7 @@ const bankList = [
     },
     {
         account_name: "농협은행",
-        account_code: ["011", "012"],
+        account_code: "011",
         account_number_list: [
             {
                 number_count: 11,
@@ -273,7 +273,7 @@ const bankList = [
     },
     {
         account_name: "우체국예금",
-        account_code: ["071", "072", "073", "074", "075"],
+        account_code: "071",
         account_number_list: [
             {
                 number_count: 12,
@@ -291,7 +291,7 @@ const bankList = [
     },
     {
         account_name: "하나은행",
-        account_code: ["081", "025", "080", "082"],
+        account_code: "081",
         account_number_list: [
             {
                 number_count: 11,
@@ -309,7 +309,7 @@ const bankList = [
     },
     {
         account_name: "신한은행",
-        account_code: ["088", "021", "026"],
+        account_code: "088",
         account_number_list: [
             {
                 number_count: 11,

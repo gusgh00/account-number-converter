@@ -408,5 +408,6 @@ const covertAccountNumber = (account_number, bank_code, owner, masking) => {
 }
 
 module.exports = {
+    bankList,
     covertAccountNumber,
 };
